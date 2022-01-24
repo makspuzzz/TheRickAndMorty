@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
           primaryColor: const Color.fromRGBO(36,41,47,1),
       ),
         debugShowCheckedModeBanner: false,
-      title: 'Rick and Morty',
+      title: 'Rick and Mortp',
       home:StartWidget()
     );
   }
